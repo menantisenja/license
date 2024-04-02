@@ -1,9 +1,9 @@
 {
   "domain": [
-    "pojoksoft.com",
-    "menantisenja.com",
-    "demo.pojoksoft.com",
-    "failfun.com"
+            "pojoksoft.com","www.pojoksoft.com",
+            "menantisenja.com","www.menantisenja.com",
+            "demo.pojoksoft.com",
+            "failfun.com","www.failfun.com"
   ],
   "exp": "3000-11-03"
 }
