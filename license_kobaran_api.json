@@ -1,13 +1,14 @@
 {
   "domain": [
-            "pojoksoft.com","www.pojoksoft.com",
-            "menantisenja.com","www.menantisenja.com",
-            "demo.pojoksoft.com","kobaran.pojoksoft.org",
-            "fsaputra.com","www.fsaputra.com",
-            "financially.site","www.financially.site",
-            "majalah.co","www.majalah.co",
-            "pojokbatam.com","www.pojokbatam.com",
-            "parunghub.com","www.parunghub.com"
+    "pojoksoft.com","www.pojoksoft.com",
+    "menantisenja.com","www.menantisenja.com",
+    "demo.pojoksoft.com","kobaran.pojoksoft.org",
+    "kalseldaily.com","www.kalseldaily.com",
+    "fsaputra.com","www.fsaputra.com",
+    "financially.site","www.financially.site",
+    "majalah.co","www.majalah.co",
+    "pojokbatam.com","www.pojokbatam.com",
+    "parunghub.com","www.parunghub.com"
   ],
   "exp": "3000-11-03"
 }
