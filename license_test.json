@@ -2,5 +2,6 @@
   "allowed_domains":[
     "localhost","serangraya.space",
     "www.serangraya.space"
-  ]
+  ],
+  "exp": "3000-11-03"
 }
