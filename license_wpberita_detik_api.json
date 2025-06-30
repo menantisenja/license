@@ -1,6 +1,7 @@
 {
   "domain": [
     "pojoksoft.com","www.pojoksoft.com",
+    "suarakhatulistiwa.net","www.suarakhatulistiwa.net",
     "journaling.id","www.journaling.id",
     "himpasus.com","www.himpasus.com",
     "klikbanjarnegara.info","www.klikbanjarnegara.info",
@@ -238,5 +239,5 @@
     "ksnnews.id","www.ksnnews.id",
     "siaptv.com","www.siaptv.com"
   ],
-  "exp": "3000-11-03"
+  "exp": "9999-11-03"
 }
