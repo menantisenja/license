@@ -1,6 +1,7 @@
 {
   "domain": [
     "localhost","www.localhost",
+    "demo.dirastore.com"
   ],
-  "exp": "3000-11-03"
+  "exp": "9999-11-03"
 }
