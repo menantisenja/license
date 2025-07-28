@@ -1,6 +1,7 @@
 {
   "domain": [
-    "localhost","www.localhost",
+    "localhost",
+    "promedianusantara.com",
     "demo.dirastore.com/liputanwp",
   ],
   "exp": "9999-11-03"
