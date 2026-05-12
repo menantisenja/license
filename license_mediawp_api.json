@@ -1,6 +1,7 @@
 {
   "domain": [
-    "demo.dirastore.com/mediawp","localhost/mediawp"
+    "demo.dirastore.com/mediawp","localhost/mediawp",
+    "harian7.com"
   ],
   "exp": "9999-11-03"
 }
